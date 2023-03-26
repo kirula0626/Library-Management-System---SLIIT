@@ -1,3 +1,0 @@
-# IWT
-
-Library Management System
